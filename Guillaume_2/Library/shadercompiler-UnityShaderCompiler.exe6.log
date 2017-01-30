@@ -1,0 +1,36 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: disassembleShader
+  api=10 insize=1260 outsize=2141 ok=1
+Cmd: disassembleShader
+  api=10 insize=1436 outsize=2462 ok=1
+Cmd: disassembleShader
+  api=10 insize=1424 outsize=2352 ok=1
+Cmd: disassembleShader
+  api=10 insize=1084 outsize=1809 ok=1
+Cmd: disassembleShader
+  api=10 insize=1436 outsize=2462 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=986 outsize=1424 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1424 outsize=2352 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=986 outsize=1786 kw=DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_ON _EMISSION VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=1786 outsize=3146 ok=1
+Cmd: disassembleShader
+  api=10 insize=1444 outsize=2475 ok=1
+Cmd: disassembleShader
+  api=10 insize=1260 outsize=2141 ok=1
+Cmd: disassembleShader
+  api=10 insize=1436 outsize=2462 ok=1
+Cmd: disassembleShader
+  api=10 insize=2436 outsize=4050 ok=1
+Cmd: disassembleShader
+  api=10 insize=1260 outsize=2141 ok=1
+Cmd: disassembleShader
+  api=10 insize=1436 outsize=2462 ok=1
+Cmd: disassembleShader
+  api=10 insize=2436 outsize=4050 ok=1
+Cmd: disassembleShader
+  api=10 insize=1508 outsize=2515 ok=1
